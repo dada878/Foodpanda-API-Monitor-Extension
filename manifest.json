@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Foodpanda API Monitor",
+  "version": "1.0",
+  "description": "Monitors and saves specific API requests from foodpanda.com.tw",
+  "devtools_page": "devtools.html"
+} 
